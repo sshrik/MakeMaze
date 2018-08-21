@@ -1,4 +1,5 @@
 #include"maze.h"
+#include"prim.h"
 
 int main()	{
 	int width = 20;

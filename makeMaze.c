@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include "prim.h"
 #include "maze.h"
 
 void nodeToMap(int width, int height, int (*map)[2 * height + 1], node (*maze)[height])	{
